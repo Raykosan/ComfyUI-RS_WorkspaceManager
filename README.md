@@ -4,7 +4,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-custom--node-orange)](https://github.com/comfyanonymous/ComfyUI)
 
-**A powerful, standalone utility extension for ComfyUI designed to manage your entire workspace. Group multiple workflows into single-click Presets, backup your Interface Settings, and let the extension automatically clean up browser storage to prevent annoying "Failed to save workflow draft" errors.**  
+**A powerful, standalone utility extension for ComfyUI designed to manage your entire workspace. Group multiple workflows into single-click Presets, backup your Interface Settings.**  
 
 ## ✨ Features  
 ### 📂 Workflow Presets  
