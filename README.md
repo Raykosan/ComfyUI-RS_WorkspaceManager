@@ -6,6 +6,23 @@
 
 **A powerful, standalone utility extension for ComfyUI designed to manage your entire workspace. Group multiple workflows into single-click Presets, backup your Interface Settings.**  
 
+<img width="1384" height="832" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1ad862f2-ad5e-4fc2-8f90-a11ed66b6df3" />
+
+---
+
+<img width="94" height="48" alt="Screenshot_2" src="https://github.com/user-attachments/assets/664ee29f-2462-4c20-842d-e11b6d684e4b" />
+
+---
+
+<img width="474" height="969" alt="Screenshot_3" src="https://github.com/user-attachments/assets/43cc5b42-7843-409e-8950-e64626068946" />
+
+---
+
+<img width="388" height="310" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b947815c-c8ba-4d89-9066-6e0561b7d41a" />
+
+---
+---
+
 ## ✨ Features  
 ### 📂 Workflow Presets  
 - **Save Tabs as Presets**: Group multiple open workflow tabs (e.g., Base Workflow, Upscaler, Face Detailer) into a single preset.  
