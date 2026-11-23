@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-rs-workspacemanager"
+description = "Workflow Preset Manager and Interface Settings Backup for ComfyUI"
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Raykosan/ComfyUI-RS_WorkspaceManager"
+
+[tool.comfy]
+PublisherId = "raykosan"
+DisplayName = "ComfyUI-RS_WorkspaceManager"
